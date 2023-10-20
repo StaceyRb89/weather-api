@@ -1,0 +1,27 @@
+body {
+    font-family: arial, san-serif;
+    background-color: bisque;
+    text-align: center;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+#city {
+    padding: 10px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}
+
+#search-btn {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: azure;
+}
+
+#weather-info {
+    margin-top: 20px;
+    font-size: 24px;
+}
